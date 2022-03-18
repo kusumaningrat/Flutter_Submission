@@ -123,7 +123,7 @@ class MyHomePage extends StatelessWidget {
                           height: 8.0,
                         ),
                         Text(
-                          '09:00 - 20:00',
+                          '07:00 - 17:00',
                           style: informationTextStyle,
                         )
                       ],
