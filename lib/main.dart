@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:carousel_slider/carousel_slider.dart';
 import 'Navbar.dart';
+import 'About.dart';
+import 'model/TourismPlacesModels.dart';
 
 var informationTextStyle = TextStyle(fontFamily: 'Oxygen');
 
